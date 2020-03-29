@@ -14,6 +14,7 @@ Expected OUTPUT for this sample:
 */
 
 function getPositiveNumbers(numbers) {
+  return getPositiveNumbers.filter((numbers) => word.length === 0);
 }
 
 // If you need, you can always visualize the result with a console.log.
